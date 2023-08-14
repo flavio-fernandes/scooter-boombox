@@ -134,7 +134,7 @@ def handle_mixer(state, num, pressed):
 
     else:  # released
 
-        if not state.sustain_voice_enabled:
+        if state.buttons_pressed_together == 3 or not state.sustain_voice_enabled:
             voice.level = 0  # mute it
         else:
             state.sustain_voices[num] = SUSTAIN_SECS  # mute it after sustain
