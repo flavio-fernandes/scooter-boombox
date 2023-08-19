@@ -7,6 +7,7 @@ This project is an implementation of the project described in
 by [Ruiz Brothers](https://learn.adafruit.com/u/pixil3d)
 
 ![scooter-boombox](https://live.staticflickr.com/65535/53101106091_efc3df6b45.jpg)
+![scooter-boombox2](https://live.staticflickr.com/65535/53114475129_3780097135_z.jpg)
 
 You can see more [pictures here :art:](https://www.flickr.com/gp/38447095@N00/1dYq76b2zK).
 
